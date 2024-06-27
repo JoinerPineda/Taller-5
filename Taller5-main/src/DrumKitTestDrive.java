@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class DrumKit {// aqui esta el codigo ordenado
+class DrumKit {
 
     boolean topHat = true;
     boolean snare = true;

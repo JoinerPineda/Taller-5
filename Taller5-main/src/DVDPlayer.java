@@ -7,7 +7,7 @@ public class DVDPlayer {
         System.out.println("DVD recording");
     }
     void PlayDVD(){
-        System.out.println("DVD playing");//faltaba definir el metodo PlayDVD se estaba intentando llamar sin haber estado definido
+        System.out.println("DVD playing");
     }
 
 }
